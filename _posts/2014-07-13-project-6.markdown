@@ -1,0 +1,16 @@
+---
+title: Akad Nikah
+subtitle: Sesuatu subtitle
+layout: default
+modal-id: 1
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+tempat: alhur
+waktu: xx desember 2015 pukul xx.xx
+description: Sesi resepsi nikah akan berlangsung pada ....
+
+
+---
