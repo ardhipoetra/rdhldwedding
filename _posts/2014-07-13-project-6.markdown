@@ -1,15 +1,14 @@
 ---
 title: Akad Nikah
-subtitle: Sesuatu subtitle
+subtitle: Prosesi akad nikah
 layout: default
 modal-id: 1
-date: 2014-07-15
+date : 2015-11-20
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: April 2014
-tempat: alhur
-waktu: xx desember 2015 pukul xx.xx
+alt: masjid-alhur-img
+tempat: Masjid Al-Hurriyyah IPB
+waktu: Minggu, 20 desember 2015 pukul 08.00 WIB
 description: Sesi resepsi nikah akan berlangsung pada ....
 
 
