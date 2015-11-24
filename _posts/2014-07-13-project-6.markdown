@@ -4,8 +4,8 @@ subtitle: Prosesi akad nikah
 layout: default
 modal-id: 1
 date : 2015-11-20
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: akad.jpg
+thumbnail: akad.jpg
 alt: masjid-alhur-img
 tempat: Masjid Al-Hurriyyah IPB
 waktu: Minggu, 20 desember 2015 pukul 08.00 WIB

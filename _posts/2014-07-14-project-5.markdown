@@ -4,8 +4,8 @@ subtitle: Prosesi resepsi
 layout: default
 modal-id: 2
 date : 2015-11-19
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: resepsiputihpink.jpg
+thumbnail: resepsiputihpink.jpg
 alt: image-aula-fpik
 tempat: Auditorium  Soemardi Sastrakusumah 
 waktu: Minggu, 20 desember 2015 pukul 10.30 - 14.00 WIB
