@@ -1,14 +1,14 @@
 ---
 title: Resepsi
-subtitle: Prosesi resepsi
+subtitle: Minggu, 20 Desember 2015 Pukul 10.30 - 14.00 WIB di Auditorium Soemardi Sastrakusumah, FPIK IPB, Bogor
 layout: default
 modal-id: 2
-date : 2015-11-19
+date : 2015-12-20
 img: resepsiputihpink.jpg
 thumbnail: resepsiputihpink.jpg
 alt: image-aula-fpik
 tempat: Auditorium  Soemardi Sastrakusumah 
-waktu: Minggu, 20 desember 2015 pukul 10.30 - 14.00 WIB
-description: Dengan memohon rahmat dan ridho Allah SWT, kami bermaksud menyelenggarakan Resepsi Pernikahan putra-putri kami yang Insyaa Allah akan diselenggarakan pada hari <br/> Minggu, 20 Desember 2015 Pukul 10.30 s/d 14.00 WIB di Auditorium  Soemardi Sastrakusumah  Jl. Lingkar Akademik Fakultas Perikanan dan Ilmu Kelautan (FPIK) Kampus IPB Darmaga Bogor. Kesan yang mendalam akan terukir dihati kami, apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan do’a estu kepada kedua mempelai.
+waktu: Minggu, 20 Desember 2015 Pukul 10.30 - 14.00 WIB
+description: Dengan memohon rahmat dan ridho Allah SWT, kami bermaksud menyelenggarakan resepsi pernikahan putra-putri kami yang Insyaa Allah akan diselenggarakan pada hari <br/> Minggu, 20 Desember 2015 Pukul 10.30 s/d 14.00 WIB di Auditorium  Soemardi Sastrakusumah  Jl. Lingkar Akademik Fakultas Perikanan dan Ilmu Kelautan (FPIK) Kampus IPB Darmaga Bogor. Kesan yang mendalam akan terukir dihati kami, apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan do’a restu kepada kedua mempelai.
 
 ---

@@ -652,17 +652,41 @@ section h3.section-subheading {
 aside.clients img {
     margin: 50px auto;
 }
+section#services {
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/pink.jpg);
+    background-color: #222;
+
+}
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
-    background-position: center;
     background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/sunset.jpg);
+    background-color: #222;
+}
+section#portfolio {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/gold.jpg);
+    background-color: #222;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #000000;
 }
+section#contact .service-heading {
+    color: #000000;
+}
+section#services .section-heading {
+    color: #ffffff;
+}
+section#services .service-heading {
+    color: #ffffff;
+}
+
 
 section#contact .form-group {
     margin-bottom: 25px;
