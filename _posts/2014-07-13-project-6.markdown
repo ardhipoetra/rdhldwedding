@@ -1,15 +1,14 @@
 ---
 title: Akad Nikah
-subtitle: Minggu, 20 desember 2015 pukul 08.00 WIB di Masjid Al-Hurriyyah IPB
+subtitle: Minggu, 20 Desember 2015 Pukul 08.00 WIB di Masjid Al-Hurriyyah IPB, Bogor
 layout: default
 modal-id: 1
-date : 2015-11-20
+date : 2015-12-20
 img: akad.jpg
 thumbnail: akad.jpg
 alt: masjid-alhur-img
-tempat: Masjid Al-Hurriyyah IPB
-waktu: Minggu, 20 desember 2015 pukul 08.00 WIB
-description: Sesi resepsi nikah akan berlangsung pada ....
-
+tempat: Masjid Al-Hurriyyah IPB, Bogor
+waktu: Minggu, 20 Desember 2015 Pukul 08.00 WIB
+description:
 
 ---

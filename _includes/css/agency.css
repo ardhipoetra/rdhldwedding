@@ -664,14 +664,23 @@ section#services {
 section#contact {
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(../img/map-image.png);
+    background-image: url(../img/sunset.jpg);
     background-color: #222;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/gold.jpg);
+    background-color: #222;
 }
-
+section#contact .service-heading {
+    color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/gold.jpg);
+}
 section#contact .form-group {
     margin-bottom: 25px;
 }
