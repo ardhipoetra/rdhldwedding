@@ -675,11 +675,19 @@ section#portfolio {
 }
 
 section#contact .section-heading {
-    color: #ffffff;
+    color: #000000;
 }
 section#contact .service-heading {
+    color: #000000;
+}
+section#services .section-heading {
     color: #ffffff;
 }
+section#services .service-heading {
+    color: #ffffff;
+}
+
+
 section#contact .form-group {
     margin-bottom: 25px;
 }
