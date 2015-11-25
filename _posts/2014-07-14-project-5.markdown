@@ -1,6 +1,6 @@
 ---
 title: Resepsi
-subtitle: Waktu: Minggu, 20 desember 2015 pukul 10.30 - 14.00 WIB Tempat: Auditorium  Soemardi Sastrakusumah
+subtitle: Minggu, 20 desember 2015 pukul 10.30 - 14.00 WIB di Auditorium  Soemardi Sastrakusumah
 layout: default
 modal-id: 2
 date : 2015-11-19

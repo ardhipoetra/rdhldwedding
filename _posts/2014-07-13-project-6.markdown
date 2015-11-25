@@ -1,6 +1,6 @@
 ---
 title: Akad Nikah
-subtitle: Waktu: Minggu, 20 desember 2015 pukul 08.00 WIB  Tempat: Masjid Al-Hurriyyah IPB
+subtitle: Minggu, 20 desember 2015 pukul 08.00 WIB di Masjid Al-Hurriyyah IPB
 layout: default
 modal-id: 1
 date : 2015-11-20
