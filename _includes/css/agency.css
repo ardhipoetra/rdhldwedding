@@ -667,19 +667,18 @@ section#contact {
     background-image: url(../img/sunset.jpg);
     background-color: #222;
 }
-
-section#contact .section-heading {
-    color: #ffffff;
+section#portfolio {
     background-repeat: no-repeat;
     background-position: center;
     background-image: url(../img/gold.jpg);
     background-color: #222;
 }
+
+section#contact .section-heading {
+    color: #ffffff;
+}
 section#contact .service-heading {
     color: #ffffff;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-image: url(../img/gold.jpg);
 }
 section#contact .form-group {
     margin-bottom: 25px;
