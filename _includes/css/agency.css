@@ -683,11 +683,23 @@ section#portfolio {
     background-image: url(../img/gold.jpg);
     background-color: #222;
 }
+section#team {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/gold.jpg);
+    background-color: #222;
+}
+section#about {
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url(../img/pink.jpg);
+    background-color: #222;
+}
 
 section#contact .section-heading {
     color: #000000;
 }
-section#contact .service-heading {
+section#contact .service-subheading {
     color: #000000;
 }
 section#services .section-heading {
@@ -699,7 +711,6 @@ section#services .service-heading {
 section#services .section-subheading {
     color: #ffffff;
 }
-
 
 section#contact .form-group {
     margin-bottom: 25px;
