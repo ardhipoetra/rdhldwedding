@@ -654,12 +654,22 @@ aside.clients img {
 }
 section#services {
 
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
     background-image: url(../img/pink.jpg);
     background-color: #222;
 
 }
+
+section#services.container {
+
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url(../img/pink.jpg);
+    background-color: #222;
+
+}
+
 
 section#contact {
     background-repeat: no-repeat;
@@ -684,6 +694,9 @@ section#services .section-heading {
     color: #ffffff;
 }
 section#services .service-heading {
+    color: #ffffff;
+}
+section#services .section-subheading {
     color: #ffffff;
 }
 
@@ -897,3 +910,5 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+
