@@ -654,38 +654,24 @@ aside.clients img {
 }
 section#services {
 
-    background-repeat: repeat;
-    background-position: top;
-    background-image: url(../img/pink.jpg);
-    background-color: #222;
+
+    background-color: #e74c3c;
 
 }
 
 
 
 section#contact {
-    background-repeat: repeat;
-    background-position: top;
-    background-image: url(../img/pink.jpg);
-    background-color: #222;
+    background-color: #e74c3c;
 }
 section#portfolio {
-    background-repeat: repeat;
-    background-position: top;
-    background-image: url(../img/pink.jpg);
-    background-color: #222;
+    background-color: #e74c3c;
 }
 section#team {
-    background-repeat: repeat;
-    background-position: top;
-    background-image: url(../img/pink.jpg);
-    background-color: #222;
+    background-color: #e74c3c;
 }
 section#about {
-    background-repeat: repeat;
-    background-position: top;
-    background-image: url(../img/pink.jpg);
-    background-color: #222;
+    background-color: #e74c3c;
 }
 
 section#contact .section-heading {
