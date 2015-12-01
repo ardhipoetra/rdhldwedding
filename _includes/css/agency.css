@@ -655,7 +655,7 @@ aside.clients img {
 section#services {
 
     background-repeat: repeat;
-    background-position: 100%;
+    background-position: top;
     background-image: url(../img/pink.jpg);
     background-color: #222;
 
@@ -665,25 +665,25 @@ section#services {
 
 section#contact {
     background-repeat: repeat;
-    background-position: 100%;
+    background-position: top;
     background-image: url(../img/pink.jpg);
     background-color: #222;
 }
 section#portfolio {
     background-repeat: repeat;
-    background-position: 100%;
+    background-position: top;
     background-image: url(../img/pink.jpg);
     background-color: #222;
 }
 section#team {
     background-repeat: repeat;
-    background-position: 100%;
+    background-position: top;
     background-image: url(../img/pink.jpg);
     background-color: #222;
 }
 section#about {
     background-repeat: repeat;
-    background-position: 100%;
+    background-position: top;
     background-image: url(../img/pink.jpg);
     background-color: #222;
 }
