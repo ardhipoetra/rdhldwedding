@@ -664,22 +664,27 @@ section#services {
 
 
 section#contact {
+    background-repeat: repeat;
     background-position: center;
+    background-image: url(../img/pink.jpg);
     background-color: #222;
 }
 section#portfolio {
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
+    background-image: url(../img/pink.jpg);
     background-color: #222;
 }
 section#team {
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
+    background-image: url(../img/pink.jpg);
     background-color: #222;
 }
 section#about {
     background-repeat: repeat;
     background-position: center;
+    background-image: url(../img/pink.jpg);
     background-color: #222;
 }
 
