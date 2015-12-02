@@ -447,7 +447,7 @@ li.timeline-inverted.last::after {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #fed136;
 }
 
 .timeline>li {
@@ -495,7 +495,7 @@ li.timeline-inverted.last::after {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 7px solid #fed136;
     border-radius: 100%;
     text-align: center;
     color: #fff;
@@ -664,23 +664,22 @@ aside.clients img {
     margin: 50px auto;
 }
 section#services {
-    background-color: rgb(245,255,250);
-}
-
-
-
-section#contact {
-    background-color: rgb(245,255,250);
+    background-color: #E0FFF6;
 }
 section#portfolio {
-    background-color: rgb(245,255,250);
-}
-section#team {
-    background-color: rgb(245,255,250);
+    background-color: #E3FCE5;
 }
 section#about {
-    background-color: rgb(245,255,250);
+    background-color: #C7E8D1;
 }
+section#team {
+    background-color: #9AE8D1;
+}
+section#contact {
+    background-color: #3FEBD3;
+}
+
+
 
 section#contact .section-heading {
     color: #000000;
@@ -913,6 +912,6 @@ body {
 .couple-imgdesc {
 	position: absolute;
 	bottom: 0;
-    background-color:rgba(245,255,250,0.5);
+    background-color:rgba(224,255,246,0.5);
     padding: 2em;
 }
