@@ -581,6 +581,13 @@ li.timeline-inverted.last::after {
         padding: 0 30px 20px 20px;
         text-align: left;
     }
+
+    .timeline>li .timeline-panel {
+        float: left;
+        width: 41%;
+        padding: 0 20px 20px 30px;
+        text-align: right;
+    }
 }
 
 @media(min-width:992px) {
@@ -657,41 +664,38 @@ aside.clients img {
     margin: 50px auto;
 }
 section#services {
-
-
-    background-color: #e74c3c;
-
+    background-color: rgb(245,255,250);
 }
 
 
 
 section#contact {
-    background-color: #e74c3c;
+    background-color: rgb(245,255,250);
 }
 section#portfolio {
-    background-color: #e74c3c;
+    background-color: rgb(245,255,250);
 }
 section#team {
-    background-color: #e74c3c;
+    background-color: rgb(245,255,250);
 }
 section#about {
-    background-color: #e74c3c;
+    background-color: rgb(245,255,250);
 }
 
 section#contact .section-heading {
-    color: #ffffff;
+    color: #000000;
 }
 section#contact .service-subheading {
-    color: #ffffff;
+    color: #000000;
 }
 section#services .section-heading {
-    color: #ffffff;
+    color: #000000;
 }
 section#services .service-heading {
-    color: #ffffff;
+    color: #000000;
 }
 section#services .section-subheading {
-    color: #ffffff;
+    color: #000000;
 }
 section#contact .section-subheading {
     color: whitesmoke;
@@ -909,4 +913,6 @@ body {
 .couple-imgdesc {
 	position: absolute;
 	bottom: 0;
+    background-color:rgba(245,255,250,0.5);
+    padding: 2em;
 }
