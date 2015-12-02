@@ -429,6 +429,10 @@ section h3.section-subheading {
     }
 }
 
+li.timeline-inverted.last::after {
+    clear:none;
+}
+
 .timeline {
     position: relative;
     padding: 0;
@@ -902,5 +906,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
-
-
