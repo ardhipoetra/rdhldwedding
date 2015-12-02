@@ -903,4 +903,8 @@ body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
 
+.couple-imagedesc {
+	position: absolute;
+	bottom: 0;
+}
 
