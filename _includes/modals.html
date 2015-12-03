@@ -18,14 +18,16 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Waktu:
-                                    <strong><a href="http://startbootstrap.com">{{ post.waktu }}</a>
+                                    <strong><a href="#">{{ post.waktu }}, Pukul {{post.time}}</a>
                                     </strong>
                                 </li>
                                 <li>Tempat:
-                                    <strong><a href="http://startbootstrap.com">{{ post.tempat }}</a>
+                                    <strong><a href={{post.linktempat}}>{{ post.tempat }}</a>
                                     </strong>
                                 </li>
                             </ul>
+                            <button type="button" class="btn btn-default" onclick="window.open(  '{{post.linktempat}}','_blank');" ><i class="fa fa-map-marker"></i> Buka di Google Maps </button>
+
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
