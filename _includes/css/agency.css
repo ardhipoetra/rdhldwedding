@@ -491,10 +491,10 @@ li.timeline-inverted.last::after {
 .timeline>li .timeline-image {
     z-index: 100;
     position: absolute;
+    top: 50;
     left: 0;
     width: 80px;
     height: 80px;
-    margin-top: 20px;
     margin-left: 0;
     border: 7px solid #fed136;
     border-radius: 100%;
