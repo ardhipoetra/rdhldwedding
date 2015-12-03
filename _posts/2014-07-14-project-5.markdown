@@ -4,7 +4,7 @@ subtitle: Minggu, 20 Desember 2015 Pukul 10.30 - 14.00 WIB di Auditorium Soemard
 layout: default
 modal-id: 2
 date : 2015-12-20
-thumbnail: ../about/1.jpg
+thumbnail: ../about/1_.jpg
 img: resepsiputihpink.jpg
 alt: image-aula-fpik
 tempat: Auditorium Soemardi Sastrakusumah, FPIK IPB, Kabupaten Bogor
