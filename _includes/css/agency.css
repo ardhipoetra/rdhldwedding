@@ -632,7 +632,7 @@ li.timeline-inverted.last::after {
     }
 
     .timeline>li .timeline-image h4 {
-        margin-top: 100px;
+        margin-top: 40px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
