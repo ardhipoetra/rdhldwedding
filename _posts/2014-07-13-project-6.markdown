@@ -4,8 +4,8 @@ subtitle: Minggu, 20 Desember 2015 Pukul 08.00 WIB di Masjid Al-Hurriyyah IPB, B
 layout: default
 modal-id: 1
 date : 2015-12-20
-img: ../about/23.jpg
-thumbnail: akad.jpg
+thumbnail: ../about/23.jpg
+img: akad.jpg
 alt: masjid-alhur-img
 tempat: Masjid Al-Hurriyyah - Institut Pertanian Bogor, Kabupaten Bogor
 linktempat: https://www.google.com/maps/place/Mesjid+Al+Hurriyah/@-6.5556236,106.723312,17z/
