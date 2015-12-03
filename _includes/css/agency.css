@@ -503,7 +503,7 @@ li.timeline-inverted.last::after {
 }
 
 .timeline>li .timeline-image h4 {
-    margin-top: 20px;
+    margin-top: 50px;
     font-size: 10px;
     line-height: 14px;
 }
