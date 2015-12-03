@@ -351,19 +351,19 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#portfolio .portfolio-item {
+#theevent .portfolio-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+#theevent .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+#theevent .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -375,11 +375,11 @@ section h3.section-subheading {
     background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+#theevent .portfolio-item .portfolio-link .portfolio-hover:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+#theevent .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -390,16 +390,16 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+#theevent .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#theevent .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+#theevent .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+#theevent .portfolio-item .portfolio-caption {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
@@ -407,24 +407,24 @@ section h3.section-subheading {
     background-color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-caption h4 {
+#theevent .portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
-#portfolio .portfolio-item .portfolio-caption p {
+#theevent .portfolio-item .portfolio-caption p {
     margin: 0;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }
 
-#portfolio * {
+#theevent * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    #theevent .portfolio-item {
         margin: 0 0 30px;
     }
 }
@@ -640,39 +640,20 @@ li.timeline-inverted.last::after {
     }
 }
 
-.team-member {
-    margin-bottom: 50px;
-    text-align: center;
-}
-
-.team-member img {
-    margin: 0 auto;
-    border: 7px solid #fff;
-}
-
-.team-member h4 {
-    margin-top: 25px;
-    margin-bottom: 0;
-    text-transform: none;
-}
-
-.team-member p {
-    margin-top: 0;
-}
 
 aside.clients img {
     margin: 50px auto;
 }
-section#services {
+section#aboutus {
     background-color: #9AE8D1;
 }
-section#portfolio {
+section#theevent {
     background-color: #D4AF37
 }
 section#about {
     background-color: #ffffff;
 }
-section#team {
+section#dmaps {
     background-color: #9AE8D1;
 }
 section#contact {
@@ -687,20 +668,20 @@ section#contact .section-heading {
 section#contact .service-subheading {
     color: #000000;
 }
-section#services .section-heading {
+section#aboutus .section-heading {
     color: #000000;
 }
-section#services .service-heading {
+section#aboutus .service-heading {
     color: #000000;
 }
-section#services .section-subheading {
+section#aboutus .section-subheading {
     color: #000000;
 }
 section#contact .section-heading{
     color: whitesmoke;
 }
 
-section#portfolio .section-heading {
+section#theevent .section-heading {
     color: whitesmoke;
 }
 
@@ -726,7 +707,7 @@ section#contact .form-control:focus {
     box-shadow: none;
 }
 
-section#team.section-heading {
+section#dmaps.section-heading {
 
     color: black;
 
