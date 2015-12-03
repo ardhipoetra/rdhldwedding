@@ -7,7 +7,7 @@ date : 2015-12-20
 thumbnail: ../about/1_.jpg
 img: resepsiputihpink.jpg
 alt: image-aula-fpik
-tempat: Auditorium Soemardi Sastrakusumah, FPIK IPB, Kabupaten Bogor
+tempat: Auditorium Soemardi Sastrakusumah, FPIK IPB, Dramaga, Kabupaten Bogor
 linktempat: https://www.google.com/maps/place/Fakultas+Perikanan+dan+Ilmu+Kelautan,+Institut+Pertanian+Bogor/@-6.5564229,106.7233579,17.25z
 waktu: Minggu, 20 Desember 2015
 time: 10.30 - 14.00 WIB
