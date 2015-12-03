@@ -664,19 +664,19 @@ aside.clients img {
     margin: 50px auto;
 }
 section#services {
-    background-color: #E0FFF6;
+    background-color: #9AE8D1;
 }
 section#portfolio {
-    background-color: #E3FCE5;
+    background-color: #D4AF37
 }
 section#about {
-    background-color: #C7E8D1;
+    background-color: #ffffff;
 }
 section#team {
     background-color: #9AE8D1;
 }
 section#contact {
-    background-color: #3FEBD3;
+    background-color: #D4AF37
 }
 
 
@@ -696,7 +696,11 @@ section#services .service-heading {
 section#services .section-subheading {
     color: #000000;
 }
-section#contact .section-subheading {
+section#contact .section-heading{
+    color: whitesmoke;
+}
+
+section#portfolio .section-heading {
     color: whitesmoke;
 }
 
@@ -721,6 +725,23 @@ section#contact .form-control:focus {
     border-color: #{{ site.color.primary }};
     box-shadow: none;
 }
+
+section#team.section-heading {
+
+    color: black;
+
+}
+
+section#about.section-heading {
+
+    color: black;
+}
+section#about.section-subheading {
+
+    color: black;
+}
+
+
 
 section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
